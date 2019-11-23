@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String TEXT = "text";
     private String text;
     private String text2;
-    public SharedPreferences prefs;
+    public SharedPreferences preferences;
 
 
 
