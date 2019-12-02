@@ -1,3 +1,51 @@
 <resources>
-    <string name="app_name">FinalProject</string>
+    <string name="app_name">GUI programming</string>
+    <string name="btn_recipe">Recipe Search Engine</string>
+
+    <string name="recipe_toast_error">Please enter recipe title!</string>
+    <string name="recipe_please_wait">Please wait!</string>
+    <string name="recipe_hint">Enter recipe title</string>
+    <string name="recipe_search">Search</string>
+    <string name="recipe_favs">Favourites</string>
+    <string name="recipe_snack_add_success">Recipe added to favourites!</string>
+    <string name="recipe_snack_add_fail">Failed to add!</string>
+    <string name="recipe_snack_rem_success">Recipe removed from favourites!</string>
+    <string name="recipe_snack_rem_fail">Failed to remove!</string>
+    <string name="recipe_publisher">Publisher:</string>
+    <string name="recipe_author">Author</string>
+    <string name="recipe_version">Version number</string>
+    <string name="recipe_ok">OK</string>
+    <string name="recipe_how_to_use">How to use</string>
+    <string name="recipe_visit_source_link">Visit Source link</string>
+    <string name="recipe_visit_publisher_link">Visit publisher link</string>
+    <string name="recipe_save_to_favourites">Save to Favourites</string>
+    <string name="recipe_remove_from_favourites">Remove from favourites</string>
+    <string name="recipe_social_rank">Social Rank:</string>
+    <string name="recipe_help">Help</string>
+    <string name="recipe_help_one">On the search screen, enter recipe title to search. The list of search result will be shown.</string>
+    <string name="recipe_help_two">Tap on list item to view details.</string>
+    <string name="recipe_help_three">On the details screen, Click on Save to Favourites to save recipe detail offline.</string>
+    <string name="recipe_help_four">To view list of saved recipes, click on Favourites button to view a list of saved recipes.</string>
+
+    //recipe page
+
+    <string name="recipe_page_name">Recipe Page</string>
+    <string name="news_page_name">News Page</string>
+    <string name="car_charger_page_name">Car Charger Finder Page</string>
+    <string name="currency_exchange_page_name">Currency Exchange Page</string>
+    <string name="recipe_title">Title: </string>
+    <string name="search">SEARCH</string>
+
+    <string name="enterAmount">Enter Amount</string>
+    <string name="convertedValue">Converted Value</string>
+    <string name="runConversion">Run Conversion</string>
+    <string name="showHelp">Show Help</string>
+    <string name="changeFavourites">Edit Favourites</string>
+    <string name="favouritesHeader">Favourite Conversions</string>
+    <string name="inputCurrency">Input Currency</string>
+    <string name="outputCurrency">Output Currency</string>
+    <string name="author">Author: Kathleen Hardy</string>
+    <string name="activityVersion">Activity Version 2</string>
+    <string name="instructions">Instructions: Type a value into currency input and values into the currency boxes.</string>
+    <string name="snackbar">You are already on this page.</string>
 </resources>
